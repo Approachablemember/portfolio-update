@@ -1,7 +1,7 @@
 {
   "name": "portfolio-update",
   "version": "0.1.0",
-  "homepage": "https://Approachablemember.github.io/portfolio",
+  "homepage": "https://Approachablemember.github.io/portfolio-update",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
