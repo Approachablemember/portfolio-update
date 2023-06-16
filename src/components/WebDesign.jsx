@@ -4,10 +4,11 @@ import {OrbitControls, Stage} from "@react-three/drei";
 import Mac from "./Mac";
 import styled from "styled-components";
 
-const Desc = styled.h2`
+const Desc = styled.p`
   position: absolute;
   bottom: 20px;
   left: 0;
+  
 
   @media only screen and (max-width: 768px) {
     
